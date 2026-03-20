@@ -16,7 +16,7 @@ Esta calculadora foi construída pensando na escalabilidade e na experiência do
 ##  Tecnologias Utilizadas:
 - **HTML5:** Estruturação semântica.
 - **CSS3:** Estilização com Grid Layout e variáveis de cores.
-- **JavaScript (ES6):** Manipulação do DOM e lógica de cálculo.
+- **JavaScript:** Manipulação do DOM e lógica de cálculo.
 - **Acode:** Editor utilizado para o desenvolvimento 100% via Android.
 - **Termux:** Ambiente de versionamento Git.
 
