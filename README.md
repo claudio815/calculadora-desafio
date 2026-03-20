@@ -2,11 +2,9 @@
 
 Projeto desenvolvido para o primeiro desafio oficial da comunidade, focado em demonstrar lógica de programação, interface responsiva e organização de código.
 
-##  Nível Alcançado: ELITE (Arquiteto)
-
 Esta calculadora foi construída pensando na escalabilidade e na experiência do usuário (UX), utilizando tecnologias modernas de Front-end.
 
-### Funcionalidades:
+## Funcionalidades:
 - **Operações Básicas:** Soma, Subtração, Multiplicação e Divisão.
 - **Lógica Avançada:** Processamento de expressões complexas via JavaScript.
 - **Histórico Dinâmico:** Visualização da última operação realizada para consulta rápida.
