@@ -1,15 +1,14 @@
 # Calculadora Pro - Desafio < Futuros Programadores />
 
-Projeto desenvolvido para o primeiro desafio oficial da comunidade, focado em demonstrar lógica de programação, interface responsiva e organização de código.
+Projeto desenvolvido para o primeiro desafio oficial da comunidade, focado em demonstrar lógica de programação, interface e organização do código.
 
-Esta calculadora foi construída pensando na escalabilidade e na experiência do usuário (UX), utilizando tecnologias modernas de Front-end.
 
 ## Funcionalidades:
 - **Operações Básicas:** Soma, Subtração, Multiplicação e Divisão.
 - **Lógica Avançada:** Processamento de expressões complexas via JavaScript.
 - **Histórico Dinâmico:** Visualização da última operação realizada para consulta rápida.
 - **Tratamento de Erros:** Prevenção de quebras em caso de entradas inválidas ou divisão por zero.
-- **Interface Dark Mode:** Design moderno e confortável para o programador.
+- **Interface** Design moderno simples,  tenho dificuldade no css.
 
 ##  Tecnologias Utilizadas:
 - **HTML5:** Estruturação semântica.
