@@ -19,11 +19,6 @@ Projeto desenvolvido para o primeiro desafio oficial da comunidade, focado em de
 
 ---
 
-## Como rodar o projeto:
-1. Clone o repositório:
-   `git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git`
-2. Abra o arquivo `index.html` em qualquer navegador (Chrome, Firefox ou Safari).
 
----
-**Desenvolvido com  por Claudio.**
+**Desenvolvido por Claudio.**
 
